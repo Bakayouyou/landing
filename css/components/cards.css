@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.cards img {
+  width: 150px;
+}
+.card{
+  border-radius: 8px;
+  border: 1px solid black;
+  width: 250px;
+  margin-bottom: 15px;
+  box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 5px 5px 15px 5px rgba(0,0,0,0);
+}

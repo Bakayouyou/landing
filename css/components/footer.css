@@ -1,0 +1,10 @@
+.footer-block{
+  padding: 80px 0;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.fab{
+  font-size: 40px;
+}
